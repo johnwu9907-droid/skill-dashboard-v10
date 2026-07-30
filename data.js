@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "John Wu Master",
-    lang: "C# & Python",
+    lang: "Go",
   },
   sections: [
     {
