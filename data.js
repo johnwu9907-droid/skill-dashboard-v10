@@ -86,7 +86,7 @@ window.DASHBOARD_DATA = {
             {
               text: "50 分上課／10 分休息",
               desc: "一天七堂的節奏，中午休息一小時。",
-              done: true,
+              done: false,
             },
             {
               text: "每天 Git＋GitHub＋AI",
